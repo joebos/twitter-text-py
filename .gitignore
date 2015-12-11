@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 *.pyc
 build*
 *.egg*
 dist
+=======
+java/.idea
+>>>>>>> 823c35772e929eb916cfb37b124fbb602eb23459
